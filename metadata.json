@@ -1,0 +1,5 @@
+{
+  "name": "YuvAi",
+  "description": "A cute and friendly chatbot powered by Gemini. You can chat with text, send images for it to understand, or ask it to generate new images for you.",
+  "requestFramePermissions": []
+}
